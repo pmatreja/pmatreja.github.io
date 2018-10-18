@@ -18,6 +18,9 @@ I can link directly to my [about page](about.html).
 
 ### Adding picture
 
-<img_src ="image/sample.jpg" style = "width: 75%">
+<img src ="image/sample.png" style = "width: 75%">
+
+### I can add code
+My code page is [here](code.html)
 
 
